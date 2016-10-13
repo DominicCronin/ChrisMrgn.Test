@@ -8,5 +8,14 @@
   "frameworks": {
     "netstandard1.3": {
     }
+  },
+
+  "scripts": {
+    "precompile": [
+      "dotnet restore"
+    ],
+    "postcompile": [
+      
+    ]
   }
 }
