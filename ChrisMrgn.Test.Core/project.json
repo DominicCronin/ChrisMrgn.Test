@@ -1,9 +1,10 @@
 ﻿{
-  "version": "2.0.0-*",
+  "version": "1.0.0-alpha-*",
   "packOptions": {
     "licenseUrl": "https://github.com/chrismrgn",
-    "projectUrl": "https://github.com/chrismrgn",
+    "projectUrl": "https://github.com/chrismrgn"
   },
+
   "dependencies": {
     "ChrisMrgn.Test.Models": "1.0.0-*"
   },
