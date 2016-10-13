@@ -1,0 +1,12 @@
+﻿{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "ChrisMrgn.Test.Models": "1.0.0-*"
+  },
+
+  "frameworks": {
+    "netstandard1.3": {
+    }
+  }
+}
